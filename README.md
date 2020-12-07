@@ -1,6 +1,6 @@
 
 # Unit 11 Express Homework: Note Taker
-![](new-note-taker)
+![](new-note-taker.gif)
 
 ## Description
 
